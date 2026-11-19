@@ -1,0 +1,34 @@
+/* Figma Color collection: Light 16:1 / Dark 16:2.
+   Accent · Merchant: Light 16:3 / Dark 16:4. */
+:root {
+  --question-surface: #e1e1ec;
+  --question-foreground: #414552;
+  --viz-status-green: #37aa6a;
+  --viz-status-red: #da3d60;
+  --primary-strong: #1e5ee1;
+  --avatar-surface: #ededf5;
+}
+
+body.dark {
+  --bg: #10111a;
+  --card: #1a1b25;
+  --ink: #ebeef1;
+  --muted: #9a9aad;
+  --secondary: #ebeef1;
+  --accent: #262636;
+  --border: #3b3b50;
+  --line: #3b3b50;
+  --blue: #6b9fff;
+  --primary-strong: #9abfff;
+  --menu-secondary: #303040;
+  --question-surface: #303040;
+  --question-foreground: #ebeef1;
+  --viz-status-green: #6ccf95;
+  --viz-status-red: #f27d95;
+  --avatar-surface: #262636;
+}
+
+.info { color: var(--question-foreground); }
+.delta { background: var(--viz-status-green); }
+.delta.negative { background: var(--viz-status-red); }
+.sidebar nav button.active { color: var(--primary-strong); }
