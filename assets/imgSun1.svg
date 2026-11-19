@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="sun 1">
+<path id="Vector" d="M12 3V5.33333M12 18.6667V21M3 12H5.33333M18.6667 12H21M5.63333 5.63333L7.28667 7.28667M16.7133 16.7133L18.3667 18.3667M5.63333 18.3667L7.28667 16.7133M16.7133 7.28667L18.3667 5.63333" stroke-width="1.5" stroke-linecap="round" stroke="#687385"/>
+<mask id="stroke0_0_60" fill="white">
+<path d="M12 16C14.2091 16 16 14.2091 16 12C16 9.79086 14.2091 8 12 8C9.79086 8 8 9.79086 8 12C8 14.2091 9.79086 16 12 16Z"/>
+</mask>
+<path id="Vector_2" d="M16 12C16 14.2091 14.2091 16 12 16C9.79086 16 8 14.2091 8 12C8 9.79086 9.79086 8 12 8C14.2091 8 16 9.79086 16 12Z" stroke-width="3" stroke="#687385" mask="url(#stroke0_0_60)"/>
+</g>
+</svg>
